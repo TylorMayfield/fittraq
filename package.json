@@ -37,7 +37,7 @@
     "vite": "^2.2.3",
     "vite-aliases": "^0.6.3",
     "vite-plugin-compression": "^0.2.5",
-    "vite-tsconfig-paths": "^3.3.10"
+    "vite-tsconfig-paths": "^3.4.1"
   },
   "dependencies": {
     "@capacitor/android": "^3.0.1",
