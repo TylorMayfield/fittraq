@@ -24,7 +24,7 @@
   "devDependencies": {
     "@roxi/routify": "^2.18.0",
     "@sveltejs/vite-plugin-svelte": "*",
-    "@tsconfig/svelte": "^1.0.10",
+    "@tsconfig/svelte": "^3.0.0",
     "carbon-components-svelte": "^0.59.0",
     "cordova-res": "^0.15.4",
     "cross-env": "^7.0.3",
